@@ -1,4 +1,4 @@
-# Hi there, I'm Sajjad Shahid 👋
+#I'm Sajjad Shahid 👋
 
 <div align="center">
 
